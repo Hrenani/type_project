@@ -1,0 +1,3 @@
+name:ali	last_paragraph_lastscore:2#47.30	paragraph-bestscore:2**47.30
+name:hosein	last_paragraph-lastscore:2#00.05	paragraph-bestscore:2**00.05
+name:zahra	last_paragraph-lastscore:1#02.04	paragraph-bestscore:1**02.04
